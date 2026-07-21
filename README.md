@@ -1,4 +1,5 @@
-# ESP32 PID Motor Position Control
+# updated  
+#ESP32 PID Motor Position Control
 
 An embedded control system project featuring real-time closed-loop DC motor position tracking using an ESP32 microcontroller, quadrature encoder feedback, an L298N motor driver, and MATLAB-based live telemetry visualization.
 
